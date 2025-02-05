@@ -84,7 +84,4 @@ FovBox:
 	Gui, Submit, NoHide
 Return
 
-Creds:
-	MsgBox, chocochat on YT!
-
 y::exitapp
